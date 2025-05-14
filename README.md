@@ -1,6 +1,7 @@
 
 ## Getting Started
 
+![image Alt](https://github.com/thedhirajkumar/Crypto-casino/blob/1f61be83c664ba45795cddc4ec36125f38632cd6/Screenshot%202025-05-14%20131809.png)
 ### Prerequisites
 - A modern web browser (e.g., Chrome, Firefox, Edge).
 - An internet connection (the project uses CDNs to load React, Tailwind CSS, and Babel).
